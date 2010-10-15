@@ -1,0 +1,8 @@
+my eclipse preferences. if you want to use the editor theme, 
+copy 
+
+org.eclipse.cdt.ui.prefs
+org.eclipse.jdt.ui.prefs
+org.eclipse.ui.editors.prefs
+
+into ~/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings

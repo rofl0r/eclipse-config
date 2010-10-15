@@ -1,0 +1,5 @@
+#Sat Apr 03 17:05:55 CEST 2010
+descent.core.userLibrary.Tango=\#\#<cp entry ignore>\#\#
+eclipse.preferences.version=1
+descent.core.compiler.versionIdentifiers=LDC, linux, X64, LittleEndian, D_InlineAsm, D_InlineAsm_X64, all
+descent.core.userLibrary.tango=<?xml version\="1.0" encoding\="UTF-8"?>\n<userlibrary systemlibrary\="false" version\="1">\n\t<archive path\="/home/rofl/dev/tango-bundle/import"/>\n</userlibrary>\n

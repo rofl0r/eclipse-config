@@ -1,0 +1,4 @@
+#Fri Apr 02 22:11:31 CEST 2010
+eclipse.preferences.version=1
+descent.debug.core.DebuggerPath=/usr/bin/gdb
+descent.debug.core.DebuggerId=descent.debug.core.debugger.gdb

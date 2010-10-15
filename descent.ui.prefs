@@ -1,0 +1,24 @@
+#Sun Apr 18 17:00:38 CEST 2010
+spelling_locale=en_US
+descent.ui.exception.name=e
+descent.ui.gettersetter.use.is=true
+content_assist_dot_inserts=false
+useAnnotationsPrefPage=true
+eclipse.preferences.version=1
+org.eclipse.jface.textfont=1|Courier New|11.0|0|GTK|1|;
+tabWidthPropagated=true
+hoverModifiers=descent.ui.BestMatchHover;0;descent.ui.ProblemHover;\!0;descent.ui.JavadocHover;\!0;descent.ui.JavaSourceHover;Shift;descent.ui.JavaEvaluateHover;Ctrl + Shift;
+content_assist_expand_function_template_arguments=false
+content_assist_show_visible_proposals=false
+fontPropagated=true
+proposalOrderMigrated=true
+hoverModifierMasks=descent.ui.BestMatchHover;0;descent.ui.ProblemHover;0;descent.ui.JavadocHover;0;descent.ui.JavaSourceHover;131072;descent.ui.JavaEvaluateHover;393216;
+descent.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+descent.internal.ui.navigator.layout=2
+content_assist_expand_function_default_arguments=false
+descent.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+useQuickDiffPrefPage=true
+descent.ui.overrideannotation=true
+descent.ui.editor.tab.width=
+internal.default.compliance=user
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"/>
